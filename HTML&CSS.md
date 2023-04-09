@@ -2,7 +2,7 @@
 - **Relative** : Lấy chính nó làm gốc toạ độ ta có thể dùng các thuộc tính top, bottom, left, right để căn chỉnh 
 - **Absolute** : Lấy thằng cha gần nhất có thuộc tính position để làm gốc toạ độ ta có thể dùng các thuộc tính top, bottom, left, right để căn chỉnh
 - **Fixed** : Dùng để cố định 1 element khi cuộn chuột vẫn hiện thị, nó lấy trình duyệt làm gốc toạ độ ta có thể dùng các thuộc tính top, bottom, left, right để căn chỉnh
-- **Sticky **: Dùng để cố định 1 element khi cuộn chuột vẫn hiện thị ta có thể dùng các thuộc tính top, bottom, left, right để căn chỉnh
+- **Sticky** : Dùng để cố định 1 element khi cuộn chuột vẫn hiện thị ta có thể dùng các thuộc tính top, bottom, left, right để căn chỉnh
 
 # Căn giữa trong CSS:  
 - **text-align**: center; // thuộc tính này có tính kế thừa ví dụ có 1 thẻ div có css text-align : center thì thẻ bên trong nó cũng sẽ kế thừa thuộc tính này của thẻ div  
