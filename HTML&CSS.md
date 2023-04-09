@@ -24,3 +24,5 @@
 - **flex-basis**: Xác định kích thước cơ bản của flex item trước khi được phân bổ không gian còn trống. Giá trị mặc định là auto.
 - **flex**: Là thuộc tính viết tắt cho flex-grow, flex-shrink, và flex-basis. Ví dụ: flex: 1 1 auto.
 - **align-self**: Cho phép ghi đè thuộc tính align-items của container cho một flex item cụ thể. Có thể có các giá trị sau: auto, flex-start, flex-end, center, baseline, stretch.
+
+https://github.com/vuducthanh0115/note/blob/main/HTML&CSS.md
